@@ -1,8 +1,9 @@
 - 📢 Hi, I’m @skipartner
-- 👀 sKIJATI VIŠE, PLATITI MANJE
+- 👀 SKIJATI VIŠE, PLATITI MANJE
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- NOVI RED
 
 <!---
 skipartner/skipartner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
